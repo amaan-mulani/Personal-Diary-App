@@ -1,6 +1,6 @@
 # Encrypted Diary App
 
-A simple C++ console application that allows users to keep a private diary secured with a basic XOR encryption. Each user has their own diary file, and entries are timestamped to keep track of when they were made.
+A simple C++ encrypted diary app using XOR cipher. Users can write timestamped diary entries saved to a file and read them back decrypted using a secret key. Features a menu-driven interface for secure note keeping.
 
 ---
 
